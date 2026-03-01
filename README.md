@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 <<<<<<< Updated upstream
 =======
@@ -19,3 +20,6 @@
 
 
 
+=======
+#almighty
+>>>>>>> Stashed changes
