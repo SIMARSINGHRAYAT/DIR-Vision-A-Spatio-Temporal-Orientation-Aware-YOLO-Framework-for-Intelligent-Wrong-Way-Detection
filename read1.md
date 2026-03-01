@@ -1,3 +1,0 @@
-##onlyak
-
-#IO ONLY
